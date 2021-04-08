@@ -1,4 +1,4 @@
 Octavio Testa
 
-[hosl](CV.md)
+[Mi CV](CV.md)
 
